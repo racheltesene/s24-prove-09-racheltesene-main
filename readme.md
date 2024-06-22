@@ -11,8 +11,10 @@ As you solve the problems, remember to use the principles learned in the first f
 
 All of the files for this assignment will be found in the GitHub classroom ***prove-09*** repository. You will commit changes to your own repository for your submission for this assignment.
 
+#### Step 1: [Accept your assignment repository](prove-classroom){:target="_blank"}
+
 ### Problem 1 - Insert Unique Values Only
-Update the `Insert` function of the BinarySearchTree class to only allow unique values to be added to the tree (thus creating a sorted set). The `Insert` function is already written to correctly insert values into the tree. However, the current implementation will cause duplicate values to be added to the tree.
+Update the `Insert` operation to only allow unique values to be added to the tree (thus creating a sorted set). The `Insert` functions are already written to correctly insert values into the tree. However, the current implementation will cause duplicate values to be added to the tree.
 
 ### Problem 2 - Contains
 Implement the `Contains` function in the Node class. This function is called by the `Contains` function in the BinarySearchTree to search for a value in the tree. If the value is found, `true` should be returned; otherwise return `false`. **Hint**: study the `Insert` function. You will need to use recursion to solve this problem.
@@ -42,5 +44,5 @@ Please note we are not using balanced algorithms like AVL or red/black trees in 
 
 ## Submission
 You need to submit the following for this assignment:
-* Make sure all of your changes are committed and pushed to the `main` branch of your **prove-09** repository
+* Make sure all of your changes are committed and pushed to the `main` branch of your **s24-prove-09-racheltesene-main** repository
 * Submit a link to your repository in I-Learn
